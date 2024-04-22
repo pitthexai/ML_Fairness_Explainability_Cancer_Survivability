@@ -37,7 +37,7 @@ Apache-2.0 license
 + <a href="" target="_blank">Nicole Myers</a>, RN
 + <a href="" target="_blank">Leah Reid</a>, MD
 + <a href="https://www.nursing.pitt.edu/person/young-ji-lee" target="_blank">Young Ji Lee</a>, PhD
-+ + <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
++ <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
 + <a href="https://littlefieldnick.github.io/" target="_blank">Nickolas Littlefield</a>, MS
 + <a href="https://sbmi.uth.edu/faculty-and-staff/hongfang-liu.htm" target="_blank">Hongfang Liu</a>, PhD
 + <a href="https://pitthexai.github.io/people.html" target="_blank">Liron Pantanowitz</a>, MD, PhD
@@ -45,7 +45,9 @@ Apache-2.0 license
 + <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
 
 ## Citation
-(TODO)
+<p align="justify">This contribution is fully explained in the following manuscript, which is under review now at the <a href="https://eccb2024.fi/" target="_blank">ECCB 2024</a>. Any publication using this GitHub repo would require to cite the following work:
+<p align="justify">
+<strong>[1]</strong> Kamble et al. Machine Learning Fairness and Explainability in Stage-Specific Cancer Survivability Prediction. ECCB 2024. (Under Review now)</p>
 
 ## Acknowledgment
 The authors thank the anonymous reviewers for their valuable suggestions.  This work was supported in part by Oracle Cloud credits and related resources provided by Oracle for Research.
