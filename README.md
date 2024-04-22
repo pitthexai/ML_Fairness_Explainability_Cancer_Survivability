@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## License
 Apache-2.0 license
 
-## Authors
+## Collaborators
 + <a href="" target="_blank">Tejasvi Sanjay Kamble</a>
 + <a href="" target="_blank">Hongtao Wang</a>
 + <a href="" target="_blank">Nicole Myers</a>, RN
