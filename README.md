@@ -25,8 +25,6 @@ pip install -r requirements.txt
 ***Explainability Tools***: Utilizes SHAP and LIME to provide insights into the decision-making process of the models. <br>
 ***Stage-Specific Predictions***: Trains separate models for different cancer stages to enhance prediction accuracy.
 
-## Contributing
-(TODO)
 
 ## License
 Apache-2.0 license
@@ -48,9 +46,6 @@ Apache-2.0 license
 <p align="justify">This contribution is fully explained in the following manuscript, which is under review now at the <a href="https://eccb2024.fi/" target="_blank">ECCB 2024</a>. Any publication using this GitHub repo would require to cite the following work:
 <p align="justify">
 <strong>[1]</strong> Kamble et al. Machine Learning Fairness and Explainability in Stage-Specific Cancer Survivability Prediction. ECCB 2024. (Under Review now)</p>
-
-## Acknowledgment
-The authors thank the anonymous reviewers for their valuable suggestions.  This work was supported in part by Oracle Cloud credits and related resources provided by Oracle for Research.
 
 ## Contact Information
 For any queries, reach out to Dr. Ahmad P. Tafti (tafti.ahmad@pitt.edu).
