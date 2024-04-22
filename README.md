@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## License
 Apache-2.0 license
-<p><strong>Note:</strong> Our code, implementation, and documentation are derived from the <a href="https://aif360.res.ibm.com/" target="_blank">AI Fairness 360 - IBM</a> package and is subject to the terms of the Apache License 2.0.</p>
+<p><strong>Note:</strong> All ML/AI fairness parts of our code, implementation, and documentation are derived from the <a href="https://aif360.res.ibm.com/" target="_blank">AI Fairness 360 - IBM</a> package and is subject to the terms of the Apache License 2.0.</p>
 
 ## Collaborators
 + <a href="" target="_blank">Tejasvi Sanjay Kamble</a>
