@@ -1,6 +1,6 @@
 # Machine Learning Fairness and Explainability in Stage-Specific Cancer Survivability Prediction
 
-This project develops machine learning (ML) models to predict cancer survivability with a focus on fairness and explainability, using data from the SEER program. It addresses the need for tailored predictions that consider the different stages of cancer, particularly bladder, breast, and prostate cancers.
+This project develops machine learning (ML) models to predict cancer survivability with a focus on fairness and explainability, using data from the SEER program. It addresses the need for tailored predictions that consider the different stages of several cancers, particularly bladder, breast, and prostate cancers.
 
 ## Abstract
 
