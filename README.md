@@ -29,10 +29,20 @@ pip install -r requirements.txt
 (TODO)
 
 ## License
-(TODO)
+Apache-2.0 license
 
 ## Authors
-(TODO)
++ <a href="" target="_blank">Tejasvi Sanjay Kamble</a>
++ <a href="" target="_blank">Hongtao Wang</a>
++ <a href="" target="_blank">Nicole Myers</a>, RN
++ <a href="" target="_blank">Leah Reid</a>, MD
++ <a href="https://www.nursing.pitt.edu/person/young-ji-lee" target="_blank">Young Ji Lee</a>, PhD
++ + <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
++ <a href="https://littlefieldnick.github.io/" target="_blank">Nickolas Littlefield</a>, MS
++ <a href="https://sbmi.uth.edu/faculty-and-staff/hongfang-liu.htm" target="_blank">Hongfang Liu</a>, PhD
++ <a href="https://pitthexai.github.io/people.html" target="_blank">Liron Pantanowitz</a>, MD, PhD
++ <a href="https://www.pitt.edu/pittwire/accolades-honors/hooman-rashidi-becomes-associate-dean-ai-medicine" target="_blank">Hooman Rashidi</a>, MD
++ <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
 
 ## Citation
 (TODO)
