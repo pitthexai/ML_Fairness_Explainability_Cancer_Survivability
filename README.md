@@ -48,4 +48,4 @@ Apache-2.0 license
 <strong>[1]</strong> Kamble et al. Machine Learning Fairness and Explainability in Stage-Specific Cancer Survivability Prediction. ECCB 2024. (Under Review now)</p>
 
 ## Contact Information
-For any queries, reach out to Dr. Ahmad P. Tafti (tafti.ahmad@pitt.edu).
+For any queries, reach out to Ahmad P. Tafti (tafti.ahmad@pitt.edu).
