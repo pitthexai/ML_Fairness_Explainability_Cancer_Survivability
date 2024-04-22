@@ -22,8 +22,8 @@ pip install -r requirements.txt
 
 ## Features
 + <strong>Fairness Integration:</strong> Applies fairness algorithms to ensure unbiased predictions across different patient demographics. <br>
-+ Explainability Tools: Utilizes SHAP and LIME to provide insights into the decision-making process of the models. <br>
-+ Stage-Specific Predictions: Trains separate models for different cancer stages to enhance prediction accuracy.
++ <strong>Explainability Tools:</strong> Utilizes SHAP and LIME to provide insights into the decision-making process of the models. <br>
++ <strong>Stage-Specific Predictions:</strong> Trains separate models for different cancer stages to enhance prediction accuracy.
 
 
 ## License
