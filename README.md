@@ -10,15 +10,52 @@ While prior machine learning (ML) models for cancer survivability prediction oft
 
 ## Installation
 
-To set up this project, clone the repository and install the required dependencies.
+To set up this project, clone the repository.
 
 ```bash
 git clone https://github.com/pitthexai/ML_Fairness_Explainability_Cancer_Survivability.git
-pip install -r requirements.txt
 ```
 
 ## Usage
-(TODO)
+
+### Accessing the Datasets
+
+The SEER datasets required for this project are located in the `Seer_Old datasets` folder of this repository. To use these datasets, you can download them directly from the repository or access them via the file path in the Jupyter notebooks.
+
+### Running the Project in Jupyter Notebook
+
+To run the analysis in a Jupyter environment, navigate to the directory containing the notebook file after cloning the repository:
+
+```bash
+cd ML_Fairness_Explainability_Cancer_Survivability
+```
+
+Then, start the Jupyter Notebook or JupyterLab:
+
+```bash
+jupyter notebook
+```
+or
+```bash
+jupyter lab
+```
+
+### Running the Project in Google Colab
+
+If you prefer to use Google Colab for running the Jupyter notebooks, use the following button to open the 'Experimental Verification' notebook:
+
+<a target="_blank" href="https://colab.research.google.com/github/pitthexai/ML_Fairness_Explainability_Cancer_Survivability/blob/main/Experimental%20Verification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Use the following button to open the 'SEER_Survival_Fair_Explainable_ML_Models' notebook:
+
+<a target="_blank" href="https://colab.research.google.com/github/pitthexai/ML_Fairness_Explainability_Cancer_Survivability/blob/main/SEER_Survival_Fair_Explainable_ML_Models.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Please ensure you upload the SEER datasets to your Colab environment or mount your Google Drive where the datasets are stored before running the notebook.
+
 
 ## Features
 + <strong>Fairness Integration:</strong> Applies fairness algorithms to ensure unbiased predictions across different patient demographics. <br>
