@@ -16,23 +16,6 @@ To set up this project, clone the repository.
 git clone https://github.com/pitthexai/ML_Fairness_Explainability_Cancer_Survivability.git
 ```
 
-### Running the Project in Google Colab
-
-If you prefer to use Google Colab for running the Jupyter notebooks, use the following button to open the 'Experimental Verification' notebook:
-
-<a target="_blank" href="https://colab.research.google.com/github/pitthexai/ML_Fairness_Explainability_Cancer_Survivability/blob/main/Experimental%20Verification.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-Use the following button to open the 'SEER_Survival_Fair_Explainable_ML_Models' notebook:
-
-<a target="_blank" href="https://colab.research.google.com/github/pitthexai/ML_Fairness_Explainability_Cancer_Survivability/blob/main/SEER_Survival_Fair_Explainable_ML_Models.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-Please ensure you upload the SEER datasets to your Colab environment or mount your Google Drive where the datasets are stored before running the notebook.
-
-
 ## Features
 + <strong>Fairness Integration:</strong> Applies fairness algorithms to ensure unbiased predictions across different patient demographics. <br>
 + <strong>Explainability Tools:</strong> Utilizes SHAP and LIME to provide insights into the decision-making process of the models. <br>
