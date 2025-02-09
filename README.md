@@ -16,30 +16,6 @@ To set up this project, clone the repository.
 git clone https://github.com/pitthexai/ML_Fairness_Explainability_Cancer_Survivability.git
 ```
 
-## Usage
-
-### Accessing the Datasets
-
-The SEER datasets required for this project are located in the `Seer_Old datasets` folder of this repository. To use these datasets, you can download them directly from the repository or access them via the file path in the Jupyter notebooks.
-
-### Running the Project in Jupyter Notebook
-
-To run the analysis in a Jupyter environment, navigate to the directory containing the notebook file after cloning the repository:
-
-```bash
-cd ML_Fairness_Explainability_Cancer_Survivability
-```
-
-Then, start the Jupyter Notebook or JupyterLab:
-
-```bash
-jupyter notebook
-```
-or
-```bash
-jupyter lab
-```
-
 ### Running the Project in Google Colab
 
 If you prefer to use Google Colab for running the Jupyter notebooks, use the following button to open the 'Experimental Verification' notebook:
