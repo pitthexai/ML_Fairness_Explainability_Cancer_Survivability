@@ -26,23 +26,22 @@ git clone https://github.com/pitthexai/ML_Fairness_Explainability_Cancer_Surviva
 Apache-2.0 license
 <p><strong>Note:</strong> All ML/AI fairness parts of our code, implementation, and documentation are derived from the <a href="https://aif360.res.ibm.com/" target="_blank">AI Fairness 360 - IBM</a> package and is subject to the terms of the Apache License 2.0.</p>
 
-## Collaborators
-+ <a href="" target="_blank">Tejasvi Sanjay Kamble</a>
-+ <a href="" target="_blank">Hongtao Wang</a>
-+ <a href="" target="_blank">Nicole Myers</a>, RN
-+ <a href="" target="_blank">Leah Reid</a>, MD
-+ <a href="https://www.nursing.pitt.edu/person/young-ji-lee" target="_blank">Young Ji Lee</a>, PhD
-+ <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
-+ <a href="https://littlefieldnick.github.io/" target="_blank">Nickolas Littlefield</a>, MS
-+ <a href="https://sbmi.uth.edu/faculty-and-staff/hongfang-liu.htm" target="_blank">Hongfang Liu</a>, PhD
-+ <a href="https://pitthexai.github.io/people.html" target="_blank">Liron Pantanowitz</a>, MD, PhD
-+ <a href="https://www.pitt.edu/pittwire/accolades-honors/hooman-rashidi-becomes-associate-dean-ai-medicine" target="_blank">Hooman Rashidi</a>, MD
-+ <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
+## SEER
+<p>The entire dataset analyzed during the current study is available via <a href="https://seer.cancer.gov" target="_blank"> Surveillance, Epidemiology, and End Results (SEER) Progra</a>.</p>
 
-## Citation
-<p align="justify">This contribution is fully explained in the following manuscript, which is under review now at the <a href="https://eccb2024.fi/" target="_blank">ECCB 2024</a>. Any publication using this GitHub repo would require to cite the following work:
-<p align="justify">
-<strong>[1]</strong> Kamble et al. Machine Learning Fairness and Explainability in Stage-Specific Cancer Survivability Prediction. ECCB 2024. (Under Review now)</p>
+### Citation:
 
+<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/articles/s41598-024-66873-6" target="_blank">Nature-Scientific Reports</a>. Any publication using this work would require to cite the following paper:
+
+  ```
+  @article{kamble2025predicting,
+  title={Predicting Cancer Survival at Different Stages: Insights from Fair and Explainable Machine Learning Approaches},
+  author={Kamble, Tejasvi Sanjay and Wang, Hongtao and Myers, Nicole and Littlefield, Nickolas and Reid, Leah and McCarthy, Cynthia S and Lee, Young Ji and Liu, Hongfang and Pantanowitz, Liron and Amirian, Soheyla and others},
+  journal={International Journal of Medical Informatics},
+  pages={105822},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 ## Contact Information
 For any queries, reach out to Ahmad P. Tafti (tafti.ahmad@pitt.edu).
