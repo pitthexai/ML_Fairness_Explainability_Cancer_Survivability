@@ -27,11 +27,11 @@ Apache-2.0 license
 <p><strong>Note:</strong> All ML/AI fairness parts of our code, implementation, and documentation are derived from the <a href="https://aif360.res.ibm.com/" target="_blank">AI Fairness 360 - IBM</a> package and is subject to the terms of the Apache License 2.0.</p>
 
 ## SEER
-<p>The entire dataset analyzed during the current study is available via <a href="https://seer.cancer.gov" target="_blank"> Surveillance, Epidemiology, and End Results (SEER) Progra</a>.</p>
+<p>The entire dataset analyzed during the current study is available via <a href="https://seer.cancer.gov" target="_blank">Surveillance, Epidemiology, and End Results (SEER) Progra</a>.</p>
 
 ### Citation:
 
-<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/articles/s41598-024-66873-6" target="_blank">Nature-Scientific Reports</a>. Any publication using this work would require to cite the following paper:
+<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.sciencedirect.com/science/article/pii/S1386505625000395" target="_blank">International Journal of Medical Informatics</a>. Any publication using this work would require to cite the following paper:
 
   ```
   @article{kamble2025predicting,
