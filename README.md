@@ -34,17 +34,14 @@ Apache-2.0 license
 <p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.sciencedirect.com/science/article/pii/S1386505625000395" target="_blank">International Journal of Medical Informatics</a>. Any publication using this work would require to cite the following paper:
 
   ```
-  @@article{littlefield2024generative,
-  title={Generative AI in orthopedics: an explainable deep few-shot image augmentation pipeline for plain knee radiographs and Kellgren-Lawrence grading},
-  author={Littlefield, Nickolas and Amirian, Soheyla and Biehl, Jacob and Andrews, Edward G and Kann, Michael and Myers, Nicole and Reid, Leah and Yates Jr, Adolph J and McGrory, Brian J and Parmanto, Bambang and others},
-  journal={Journal of the American Medical Informatics Association},
-  volume={31},
-  number={11},
-  pages={2668--2678},
-  year={2024},
-  publisher={Oxford University Press}
+  @article{kamble2025predicting,
+  title={Predicting Cancer Survival at Different Stages: Insights from Fair and Explainable Machine Learning Approaches},
+  author={Kamble, Tejasvi Sanjay and Wang, Hongtao and Myers, Nicole and Littlefield, Nickolas and Reid, Leah and McCarthy, Cynthia S and Lee, Young Ji and Liu, Hongfang and Pantanowitz, Liron and Amirian, Soheyla and others},
+  journal={International Journal of Medical Informatics},
+  pages={105822},
+  year={2025},
+  publisher={Elsevier}
 }
-
 ```
 ## Contact Information
 For any queries, reach out to Ahmad P. Tafti (tafti.ahmad@pitt.edu).
